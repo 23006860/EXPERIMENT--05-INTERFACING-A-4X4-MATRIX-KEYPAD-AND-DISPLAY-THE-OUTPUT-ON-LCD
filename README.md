@@ -147,8 +147,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ![image](https://github.com/user-attachments/assets/e59d2ae5-9208-489f-8b73-bb3861e993cc)
 
 ## STM 32 CUBE PROGRAM :
-## NAME : V.vignesh
-## REGISTER NUMBER : 212223230241
+## NAME : RAHUL V
+## REGISTER NUMBER : 212223240133
 ```c
 #include "main.h"
 #include "lcd.h"
